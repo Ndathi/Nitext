@@ -4,7 +4,7 @@
   "description": "A real time chat application",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
